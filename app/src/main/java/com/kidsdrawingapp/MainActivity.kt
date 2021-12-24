@@ -28,6 +28,7 @@ import java.io.ByteArrayOutputStream
 import java.io.File
 import java.io.FileOutputStream
 // Created by Saeem
+// Using Kotlin
 class MainActivity : AppCompatActivity() {
 
     private var mImageButtonCurrentPaint: ImageButton? =
