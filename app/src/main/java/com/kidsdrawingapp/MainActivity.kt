@@ -425,7 +425,7 @@ class MainActivity : AppCompatActivity() {
                 ).show()
             }
 
-            // 
+            //
             // START
 
             /*MediaScannerConnection provides a way for applications to pass a
